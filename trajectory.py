@@ -20,11 +20,11 @@ dradius = 10
 dthick = 2
 
 def main(argv):
-    g = -70
-    b = +40
+    g = -45
+    b = +45
 
-    BF = 0.150 # T
-    EE = 1000 # keV
+    BF = 0.165 # T
+    EE = 1052 # keV
 
     
     
